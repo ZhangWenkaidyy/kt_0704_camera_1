@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/createrweima/createrweima.iml" filepath="$PROJECT_DIR$/createrweima/createrweima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kt_0704_camera_1.iml" filepath="$PROJECT_DIR$/kt_0704_camera_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kt_systemcamera_1/kt_systemcamera_1.iml" filepath="$PROJECT_DIR$/kt_systemcamera_1/kt_systemcamera_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mult_systemcamera/mult_systemcamera.iml" filepath="$PROJECT_DIR$/mult_systemcamera/mult_systemcamera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-image-selector/multi-image-selector.iml" filepath="$PROJECT_DIR$/multi-image-selector/multi-image-selector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quanxian/quanxian.iml" filepath="$PROJECT_DIR$/quanxian/quanxian.iml" />
+    </modules>
+  </component>
+</project>

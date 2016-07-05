@@ -1,0 +1,1 @@
+include ':app', ':quanxian', ':kt_systemcamera_1', ':mult_systemcamera', ':multi-image-selector', ':createrweima'
